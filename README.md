@@ -25,13 +25,13 @@ File exploring
 
 File
 
-* Open in new tab (background) T
-* Open in new tab (activate) t
-* toggle collapse folders za
-* close folder zc
-* open folder zo
-* open all folders zR
-* close all folders zM
-* open file in vertical split i
-* open file in horizontal split s
+* Open in new tab (background): T
+* Open in new tab (activate): t
+* toggle collapse folders: za
+* close folder: zc
+* open folder: zo
+* open all folders: zR
+* close all folders: zM
+* open file in vertical split: i
+* open file in horizontal split: s
 
