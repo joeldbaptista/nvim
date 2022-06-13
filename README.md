@@ -27,11 +27,11 @@ File
 
 * Open in new tab (background): T
 * Open in new tab (activate): t
-* toggle collapse folders: za
-* close folder: zc
-* open folder: zo
-* open all folders: zR
-* close all folders: zM
-* open file in vertical split: i
-* open file in horizontal split: s
-
+* Toggle collapse folders: za
+* Close folder: zc
+* Open folder: zo
+* Open all folders: zR
+* Close all folders: zM
+* Open file in vertical split: i
+* Open file in horizontal split: s
+* Open menu: m
