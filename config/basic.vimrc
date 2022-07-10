@@ -3,8 +3,8 @@ set nocompatible
 filetype plugin on
 syntax on
 
-"color codedark
-color xcodelight
+color codedark
+"color xcodelight
 "color papercolor
 
 set background=light	" set background light or dark
